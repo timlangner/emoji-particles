@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emoji-particles/static/css/main.fc5fcef2.chunk.css",
+    "main.js": "/emoji-particles/static/js/main.628a473a.chunk.js",
+    "main.js.map": "/emoji-particles/static/js/main.628a473a.chunk.js.map",
+    "runtime-main.js": "/emoji-particles/static/js/runtime-main.a98d3a24.js",
+    "runtime-main.js.map": "/emoji-particles/static/js/runtime-main.a98d3a24.js.map",
+    "static/js/2.f70265be.chunk.js": "/emoji-particles/static/js/2.f70265be.chunk.js",
+    "static/js/2.f70265be.chunk.js.map": "/emoji-particles/static/js/2.f70265be.chunk.js.map",
+    "static/js/3.73d3116b.chunk.js": "/emoji-particles/static/js/3.73d3116b.chunk.js",
+    "static/js/3.73d3116b.chunk.js.map": "/emoji-particles/static/js/3.73d3116b.chunk.js.map",
+    "index.html": "/emoji-particles/index.html",
+    "static/css/main.fc5fcef2.chunk.css.map": "/emoji-particles/static/css/main.fc5fcef2.chunk.css.map",
+    "static/js/2.f70265be.chunk.js.LICENSE.txt": "/emoji-particles/static/js/2.f70265be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/emoji-particles/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a98d3a24.js",
+    "static/js/2.f70265be.chunk.js",
+    "static/css/main.fc5fcef2.chunk.css",
+    "static/js/main.628a473a.chunk.js"
+  ]
+}
